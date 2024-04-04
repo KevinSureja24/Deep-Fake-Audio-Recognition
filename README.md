@@ -26,7 +26,7 @@ scikit-learn
 Ensure that all dependencies are installed before running the code.
 
 Contributors
-Dev Dubal
+Kevin Sureja 
 
 Acknowledgments
 We would like to acknowledge the contributions of the open-source community and the developers of libraries and frameworks used in this project.
